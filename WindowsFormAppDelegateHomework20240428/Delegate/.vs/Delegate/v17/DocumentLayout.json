@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\Homework20240428\\WindowsFormAppDelegateHomework20240428\\Delegate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{685DDA9E-2B68-4B10-B747-723E2765D7EE}|Delegate\\Delegate.vbproj|c:\\users\\shota\\source\\repos\\visualstudio\u7528\\vb.net\\homework20240428\\windowsformappdelegatehomework20240428\\delegate\\delegate\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{685DDA9E-2B68-4B10-B747-723E2765D7EE}|Delegate\\Delegate.vbproj|solutionrelative:delegate\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685DDA9E-2B68-4B10-B747-723E2765D7EE}|Delegate\\Delegate.vbproj|C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\Homework20240428\\WindowsFormAppDelegateHomework20240428\\Delegate\\delegate\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{685DDA9E-2B68-4B10-B747-723E2765D7EE}|Delegate\\Delegate.vbproj|solutionrelative:delegate\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\Homework20240428\\WindowsFormAppDelegateHomework20240428\\Delegate\\Delegate\\Form1.vb",
+              "RelativeDocumentMoniker": "Delegate\\Form1.vb",
+              "ToolTip": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\Homework20240428\\WindowsFormAppDelegateHomework20240428\\Delegate\\Delegate\\Form1.vb",
+              "RelativeToolTip": "Delegate\\Form1.vb",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-28T04:57:46.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\Homework20240428\\WindowsFormAppDelegateHomework20240428\\Delegate\\Delegate\\Form1.vb",
+              "RelativeDocumentMoniker": "Delegate\\Form1.vb",
+              "ToolTip": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\Homework20240428\\WindowsFormAppDelegateHomework20240428\\Delegate\\Delegate\\Form1.vb [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "Delegate\\Form1.vb [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-28T04:53:43.414Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

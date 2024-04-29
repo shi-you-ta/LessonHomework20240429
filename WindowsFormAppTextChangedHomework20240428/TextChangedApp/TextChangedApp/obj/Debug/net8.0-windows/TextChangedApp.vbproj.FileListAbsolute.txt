@@ -1,0 +1,16 @@
+C:\Users\shota\source\repos\VisualStudio用\VB.net\WindowsFormAppTextChangedHomework20240428\TextChangedApp\TextChangedApp\bin\Debug\net8.0-windows\TextChangedApp.exe
+C:\Users\shota\source\repos\VisualStudio用\VB.net\WindowsFormAppTextChangedHomework20240428\TextChangedApp\TextChangedApp\bin\Debug\net8.0-windows\TextChangedApp.deps.json
+C:\Users\shota\source\repos\VisualStudio用\VB.net\WindowsFormAppTextChangedHomework20240428\TextChangedApp\TextChangedApp\bin\Debug\net8.0-windows\TextChangedApp.runtimeconfig.json
+C:\Users\shota\source\repos\VisualStudio用\VB.net\WindowsFormAppTextChangedHomework20240428\TextChangedApp\TextChangedApp\bin\Debug\net8.0-windows\TextChangedApp.dll
+C:\Users\shota\source\repos\VisualStudio用\VB.net\WindowsFormAppTextChangedHomework20240428\TextChangedApp\TextChangedApp\bin\Debug\net8.0-windows\TextChangedApp.pdb
+C:\Users\shota\source\repos\VisualStudio用\VB.net\WindowsFormAppTextChangedHomework20240428\TextChangedApp\TextChangedApp\obj\Debug\net8.0-windows\TextChangedApp.Form1.resources
+C:\Users\shota\source\repos\VisualStudio用\VB.net\WindowsFormAppTextChangedHomework20240428\TextChangedApp\TextChangedApp\obj\Debug\net8.0-windows\TextChangedApp.vbproj.GenerateResource.cache
+C:\Users\shota\source\repos\VisualStudio用\VB.net\WindowsFormAppTextChangedHomework20240428\TextChangedApp\TextChangedApp\obj\Debug\net8.0-windows\TextChangedApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shota\source\repos\VisualStudio用\VB.net\WindowsFormAppTextChangedHomework20240428\TextChangedApp\TextChangedApp\obj\Debug\net8.0-windows\TextChangedApp.AssemblyInfoInputs.cache
+C:\Users\shota\source\repos\VisualStudio用\VB.net\WindowsFormAppTextChangedHomework20240428\TextChangedApp\TextChangedApp\obj\Debug\net8.0-windows\TextChangedApp.AssemblyInfo.vb
+C:\Users\shota\source\repos\VisualStudio用\VB.net\WindowsFormAppTextChangedHomework20240428\TextChangedApp\TextChangedApp\obj\Debug\net8.0-windows\TextChangedApp.vbproj.CoreCompileInputs.cache
+C:\Users\shota\source\repos\VisualStudio用\VB.net\WindowsFormAppTextChangedHomework20240428\TextChangedApp\TextChangedApp\obj\Debug\net8.0-windows\TextChangedApp.dll
+C:\Users\shota\source\repos\VisualStudio用\VB.net\WindowsFormAppTextChangedHomework20240428\TextChangedApp\TextChangedApp\obj\Debug\net8.0-windows\refint\TextChangedApp.dll
+C:\Users\shota\source\repos\VisualStudio用\VB.net\WindowsFormAppTextChangedHomework20240428\TextChangedApp\TextChangedApp\obj\Debug\net8.0-windows\TextChangedApp.pdb
+C:\Users\shota\source\repos\VisualStudio用\VB.net\WindowsFormAppTextChangedHomework20240428\TextChangedApp\TextChangedApp\obj\Debug\net8.0-windows\TextChangedApp.genruntimeconfig.cache
+C:\Users\shota\source\repos\VisualStudio用\VB.net\WindowsFormAppTextChangedHomework20240428\TextChangedApp\TextChangedApp\obj\Debug\net8.0-windows\ref\TextChangedApp.dll
